@@ -4,7 +4,7 @@
 
 Javascript client to interact with BSV paymail protocol.
 
-## Ussage.
+## Usage.
 
 ``` javascript
 import { PaymailClient, Verifi } from '@moneybutton/paymail-client'
